@@ -3,11 +3,11 @@ import java.util.*;
 public class Hello{
 
   public Hello(){
-    System.out.println("Hello World!");
+    System.out.println("\nHello World!");
   }
 
   public void sayHello(){
-    System.out.println("My sincere Greetings to the world!");
+    System.out.println("\nMy sincere Greetings to the world!");
   }
   
 }

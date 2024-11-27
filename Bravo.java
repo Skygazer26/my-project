@@ -8,7 +8,10 @@ public class Bravo{
     
     obj.sayHello();
 
-    System.out.println("Hello Bravo World!");
+    System.out.println("\nHello Bravo World!");
+
+    System.out.println("\n*****************************************************************");
+    new Infinity();
 
     Thanks obj1 = new Thanks();
       
