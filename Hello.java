@@ -2,10 +2,12 @@ import java.util.*;
 
 public class Hello{
 
-  public static void main(String[] args){
-  
+  public Hello(){
     System.out.println("Hello World!");
-    
+  }
+
+  public void sayHello(){
+    System.out.println("My sincere Greetings to the world!");
   }
   
 }
